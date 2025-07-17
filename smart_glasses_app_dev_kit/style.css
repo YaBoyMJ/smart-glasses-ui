@@ -1,0 +1,28 @@
+
+body {
+  margin: 0;
+  background: #111;
+  color: white;
+  font-family: sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.app-icon {
+  width: 80px;
+  height: 100px;
+  margin: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+.app-icon img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.app-icon p {
+  margin: 5px 0 0;
+  font-size: 14px;
+}
